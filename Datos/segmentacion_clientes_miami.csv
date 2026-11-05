@@ -1,0 +1,5 @@
+﻿segmento,clientes,frecuencia_media,gasto_medio,ingreso_medio,porcentaje_premium,edad_media,porcentaje_clientes
+Frecuentes y de mayor gasto,1128,6.51,65.69,10000.34,81.83,48.81,37.64
+Frecuentes y de menor gasto,550,5.99,21.35,7411.44,62.55,49.55,18.35
+Menos frecuentes y de mayor gasto,371,3.64,44.85,4807.7,50.13,49.9,12.38
+Menos frecuentes y de menor gasto,948,2.48,17.34,2401.82,15.08,49.13,31.63

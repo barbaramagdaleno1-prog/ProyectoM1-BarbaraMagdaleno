@@ -1,0 +1,6 @@
+﻿archivo,descripcion,ruta
+01_miami_inicio.png,Apertura del artículo de Miami,Datos/WebScraping/evidencias_webscraping/01_miami_inicio.png
+02_chicago_busqueda.png,Búsqueda interna de Chicago,Datos/WebScraping/evidencias_webscraping/02_chicago_busqueda.png
+03_chicago_tema_cambiado.png,Cambio de tema de Wikipedia,Datos/WebScraping/evidencias_webscraping/03_chicago_tema_cambiado.png
+04_chicago_idioma_espanol.png,Cambio de idioma de Wikipedia,Datos/WebScraping/evidencias_webscraping/04_chicago_idioma_espanol.png
+05_chicago_tema_oscuro_verificado.png,Verificación del tema oscuro en el artículo de Chicago en español,Datos/WebScraping/evidencias_webscraping/05_chicago_tema_oscuro_verificado.png

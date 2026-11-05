@@ -1,0 +1,8 @@
+METODOLOGIA DE ALGUNOS CALCULOS DEL AVANCE 3
+
+- Limpieza general: se conservan los registros y se marcan como faltantes las edades fuera del rango 0-100, las frecuencias negativas y los gastos/ingresos negativos.
+- Gasto estimado por periodo registrado: frecuencia_visita * promedio_gasto_comida. La base no informa el periodo de frecuencia; este resultado no se debe interpretar como mensual sin confirmar esa definición. Tampoco se informa la moneda.
+- Perfil de mayor gasto: 25% superior de los registros con gasto estimado por periodo válido, utilizando el percentil 75 de esa variable.
+- Membresías: se informa cantidad absoluta de membresías premium y porcentaje sobre los clientes de cada ciudad.
+- Preferencias por ciudad: porcentajes calculados dentro de las respuestas no faltantes de cada ciudad; los registros sin preferencia se cuentan aparte.
+- Segmentación de Miami: se utilizan las medianas de frecuencia y gasto promedio por comida entre los clientes con ambas variables válidas. Valores iguales a la mediana se ubican en el grupo de mayor frecuencia/gasto correspondiente.
